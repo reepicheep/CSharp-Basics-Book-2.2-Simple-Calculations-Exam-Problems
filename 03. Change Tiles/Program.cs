@@ -40,6 +40,8 @@ namespace _03.Change_Tiles
             Console.WriteLine(НеобходимиПлочки);
             Console.WriteLine(НеобходимоВреме);
             Console.Read();
+
+            // https://pastebin.com/ikdLJQ8D
         }
     }
 }
