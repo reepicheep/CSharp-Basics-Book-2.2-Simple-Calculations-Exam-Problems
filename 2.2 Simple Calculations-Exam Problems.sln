@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Training Lab", "01. Tra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vegetable Market", "02. Vegetable Market\02. Vegetable Market.csproj", "{9537CAF1-216D-41D8-8153-C1FC5967A2D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Change Tiles", "03. Change Tiles\03. Change Tiles.csproj", "{53B60A87-12CA-4CA0-877E-3BC66E604FD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9537CAF1-216D-41D8-8153-C1FC5967A2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9537CAF1-216D-41D8-8153-C1FC5967A2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9537CAF1-216D-41D8-8153-C1FC5967A2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B60A87-12CA-4CA0-877E-3BC66E604FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B60A87-12CA-4CA0-877E-3BC66E604FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B60A87-12CA-4CA0-877E-3BC66E604FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B60A87-12CA-4CA0-877E-3BC66E604FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
